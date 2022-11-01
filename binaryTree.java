@@ -3,6 +3,8 @@
 //this code was originaly made by someone named Ankur Narain Verma, althoug I am not sure where i found it
 //This is the class i am using to store all of the Links and Nues from the main brain class
 //It is just a generic and iterable capable binary tree implemintation
+//Please not i am dislexic so do not mind the spelling mistakes in the variables and methos
+
 import java.util.*;
 
 public class binaryTree<T> implements Iterable<T>
