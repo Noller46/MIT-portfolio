@@ -15,7 +15,6 @@ public class Main
         brain.add("d");
         brain.add("e");
         
-
         brain.printMap();
         System.out.println("--------------");
         System.out.println("Testing think function");
@@ -65,7 +64,7 @@ public class Main
         System.out.println(brain.effect("c"));
         System.out.println("Expected output: c");
         System.out.println(brain.effect("d"));
-        System.out.println("Expected output: e");
+        System.out.println("Expected output: null");
         System.out.println(brain.effect("e"));
         
         
