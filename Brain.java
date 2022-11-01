@@ -1,3 +1,7 @@
+//This is the actual brain data structure
+//It is supposed to mimic how the human brain realy stores and connects information
+//Please not i am dislexic so do not mind the spelling mistakes in the variables and methos
+
 import java.util.*;
 import java.lang.*;
 
