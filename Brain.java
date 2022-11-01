@@ -111,8 +111,13 @@ public class Brain<T> //implements Iterable<T>
             
          }
       }
+      if(origin.name.equals(subj))
+      {
+         return null;
+      }
       return origin.name;
    }
+
    
    //this method run recursevly, goin from idea to the idea it is most closly liked to like a train of thought
    public void think(T subj, int steps)
