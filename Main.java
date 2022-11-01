@@ -1,5 +1,7 @@
 //This is just the class I use to check the other classes for funtionality and search for bugs
 //The old bug checks and binary tree checks where removed to make it clearer
+//Please not i am dislexic so do not mind the spelling mistakes in the variables and methos
+
 public class Main
 {
    public static void main(String[] args)
